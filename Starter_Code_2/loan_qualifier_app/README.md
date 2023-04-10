@@ -1,12 +1,12 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application allows the user to see which home loans they are qualified for after inputting their credit score, monthly debt, monthly income, desired loan amount, and home value. If desired, the user can also save their list of qualified loans as a .csv file.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Programming languages: Python, command line interface
 
 ---
 
@@ -18,14 +18,27 @@ In this section, you should include detailed installation notes containing code 
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+1. Open the app.py file and run it
+2. Enter the file path to a .csv rate sheet when prompted
+3. Enter a credit score
+4. Enter current amount of monthly debt
+5. Enter total monthly income
+6. Enter desired loan amount
+7. Enter home value
 
+The application will calculate your debt to income ratio and loan to value ratio and let you know if there are any qualifying loans.
+
+If there are qualifying loans:
+
+1. Enter yes if you would like to save the list of qualifying loans
+2. Enter the file path you would like the list to be saved
+    
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
+Jacob De La Torre
+Email: jacobadelatorre@gmail.com
 ---
 
 ## License
