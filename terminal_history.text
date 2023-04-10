@@ -1,0 +1,50 @@
+  350  git add https://github.com/jacobdlt/challenge3.git
+  351  git clone https://github.com/jacobdlt/challenge3.git
+  352  git status
+  353  ls
+  354  git status
+  355  cd ..
+  356  cd challenge3
+  357  git status
+  358  ls
+  359  git commit
+  360  git add Starter_Code_3
+  361  git commit
+  362  conda activate dev
+  363  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  364  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  365  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  366  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  367  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  368  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  369  clear
+  370  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  371  git add
+  372  git status
+  373  git add challenge2
+  374  pwd
+  375  ls
+  376  cd 02-Financial-Applications-Python 
+  377  git add challenge2
+  378  git commit --m 'commiting final challenge files'
+  379  git commit challenge2 --m 'committing final challenge files'
+  380  git add challenge2
+  381  git status
+  382  git status
+  383  git status
+  384  git push challenge2
+  385  ls
+  386  cd challenge2
+  387  git push 
+  388  /opt/anaconda3/envs/dev/bin/python /Users/DLT/Desktop/CU-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/challenge2/Starter_Code_2/loan_qualifier_app/app.py
+  389  git add README.md
+  390  git commit README.md --m 'updating README.md'
+  391  git status
+  392  git add Starter_Code_2/loan_qualifier_app/README.md
+  393  git status
+  394  git commit --m 'updating README.md'
+  395  git push
+  396  git add README.md
+  397  git commit --m 'updating README.md'
+  398  git push
+  399  history 50 > terminal_history.text
